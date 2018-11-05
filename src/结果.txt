@@ -1,0 +1,3 @@
+This file is the result of point position. The observation types are P1 and P2.
+The output followed by:
+观测历元 卫星数  测站的空间直角坐标  测站的大地坐标 测站的站心地平坐标接收机钟差 单位权中误差  PDOP
